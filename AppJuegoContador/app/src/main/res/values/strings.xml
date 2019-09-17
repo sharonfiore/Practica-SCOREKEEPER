@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppJuegoContador</string>
+    <string name="contador">0</string>
+</resources>
